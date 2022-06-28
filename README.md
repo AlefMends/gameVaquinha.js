@@ -5,7 +5,7 @@ Este projeto foi feito utilizando as seguintes tecnologias:
 
 * HTML5     
 * CSS
-*JavaScript   
+* JavaScript   
 
 
-Made with love by [Alef Mendes](https://github.com/AlefMends
+Made with love by [Alef Mendes](https://github.com/AlefMends/AlefMends
