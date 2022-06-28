@@ -8,4 +8,4 @@ Este projeto foi feito utilizando as seguintes tecnologias:
 * JavaScript   
 
 
-Made with love by [Alef Mendes](https://github.com/AlefMends/AlefMends
+Made with love by [Alef Mendes](https://github.com/AlefMends/AlefMends)
